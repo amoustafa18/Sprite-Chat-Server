@@ -1,2 +1,3 @@
 .idea/
+src/main/resources/database/spritechat.db
 Sprite-Chat-Server.iml
